@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=R116 Old Footprint=RESC3216X07N New Footprint=RESC1608X06N
+Change Component Footprint: Designator=R120 Old Footprint=RESC3216X07N New Footprint=RESC1608X06N
+Change component parameters: Designator = "LED105" ("LED105"); Footprint = "LEDC1608X80N"; UniqueID = "\MBDXEDHB" ("\MBDXEDHB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190kgkt/lite-on-technology?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121310_XINGLIGHT-XL-1608PGC-06_C7371905.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C7371905"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Price/Stock"; Value = "https://www.lcsc.com/product-detail/LED-Indication-Discrete_XINGLIGHT-XL-1608PGC-06_C7371905.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/LED-Indication-Discrete_XINGLIGHT-XL-1608PGC-06_C7371905.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XL-1608PGC-06"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y100" ("Y100"); Footprint = "CX3225CA16000D0HSSCC"; UniqueID = "\BBHKHMSZ" ("\BBHKHMSZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CX3225CA16000D0HSSCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2411121006_YXC-Crystal-Oscillators-XL2EL89COI-111YLC-8M_C2973805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2973805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Price/Stock"; Value = "https://www.lcsc.com/product-detail/Crystals_YXC-Crystal-Oscillators-XL2EL89COI-111YLC-8M_C2973805.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Crystals_YXC-Crystal-Oscillators-XL2EL89COI-111YLC-8M_C2973805.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YXC Crystal Oscillators"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XL2EL89COI-111YLC-8M"; VariantName = "[No Variations]"

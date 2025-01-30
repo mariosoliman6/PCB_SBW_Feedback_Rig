@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetIC302_4 Pin=R304-1
+Removed Pin From Net: NetName=NetIC302_5 Pin=R304-4
+Change component parameters: Designator = "C139" ("C139"); Footprint = "CAPC1608X09N"; UniqueID = "\EKKZKERB" ("\EKKZKERB")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL10C120JB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C140" ("C140"); Footprint = "CAPC1608X09N"; UniqueID = "\IJNBUJAV" ("\IJNBUJAV")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL10C120JB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC102" ("IC102"); Footprint = "SOIC127P600X175-8N"; UniqueID = "\EQXHWNFI" ("\EQXHWNFI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2410010302_Texas-Instruments-SN65HVD232DR_C30530.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C30530"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Price/Stock"; Value = "https://www.lcsc.com/product-detail/CAN-Transceivers_Texas-Instruments-SN65HVD232DR_C30530.html?s_z=n_SN65HVD232DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/CAN-Transceivers_Texas-Instruments-SN65HVD232DR_C30530.html?s_z=n_SN65HVD232DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN65HVD232DR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=IC105-4
+Added Pin To Net: NetName=NetIC302_5 Pin=R304-1
+Added Pin To Net: NetName=NetIC302_4 Pin=R304-4

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=MOTOR_1 Pin=C300-1
+Added Pin To Net: NetName=MOTOR_2 Pin=C301-1
+Added Pin To Net: NetName=MOTOR_1 Pin=IC300-6
+Added Pin To Net: NetName=MOTOR_2 Pin=IC301-6
+Added Member To Class: ClassName=Microcontroller Member=Component J105 XH2.54-6P

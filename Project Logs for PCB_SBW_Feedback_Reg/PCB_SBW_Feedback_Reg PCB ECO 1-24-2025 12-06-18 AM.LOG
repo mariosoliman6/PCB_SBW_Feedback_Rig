@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C100 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C101 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C103 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C104 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C108 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C109 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C112 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C113 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C114 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C115 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C116 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C117 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C118 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C119 Old Footprint=CAPC3216X18N New Footprint=CAPC1608X09N
+Added Pin To Net: NetName=NetC200_2 Pin=IC101-20
